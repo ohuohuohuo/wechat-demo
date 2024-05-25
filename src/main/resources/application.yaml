@@ -2,7 +2,7 @@ server:
   servlet:
     context-path: /wechat/demo
   port: 8081
-
+  
 wechat:
   config:
     #微信appId
