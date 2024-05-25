@@ -6,7 +6,7 @@
  #Good Morning Template
  模板 :
  #Template ID
- 模板Id : JSoULM8uEgY9wM4A3BxEnxBP7ci-FxREWIEVhw9Sily公司
+ 模板Id : JSoULM8uEgY9wM4A3BxEnxBP7ci-FxREWIEVhw9Sily
  #Whether all followed users are sent, True is Yes. When the value is true, SendOpenId is the WeChat user excluding the sending object. When the value is false, it means no, SendOpenId is the WeChat user of the sending object
  全部发送 :真的
 过滤器 :
